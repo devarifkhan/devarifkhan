@@ -14,12 +14,12 @@
 
 ## 📛 Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/arifkhan.png" alt="TryHackMe">
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3d5c29fb-588f-40f4-adb3-ea2c7cb23473" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<code><img height="30" src="https://i.postimg.cc/W419mrwJ/networking-essentials.png"></code>
 
 
 ## 🔠 Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-bit&layout=compact)
-<code><img height="30" src="https://i.postimg.cc/W419mrwJ/networking-essentials.png"></code>
+
 ## 🧰 Tools
 <code><img height="30" src="https://i.postimg.cc/fW5B50mD/kisspng-metasploit-project-penetration-test-security-hacke-5b072f9b0d3e65-8359478915271975950543.png"></code>
 <code><img height="30" src="https://i.postimg.cc/3NHNvRrq/wireshark.png"></code>
