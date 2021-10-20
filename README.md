@@ -1,4 +1,4 @@
-
+[![Visits Badge](https://badges.pufler.dev/visits/arif-bit/git-badges)](https://badges.pufler.dev)
 
 
 
