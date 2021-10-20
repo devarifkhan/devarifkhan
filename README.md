@@ -14,6 +14,7 @@
 
 ## 📛 Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/arifkhan.png" alt="TryHackMe">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3d5c29fb-588f-40f4-adb3-ea2c7cb23473" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## 🔠 Language
