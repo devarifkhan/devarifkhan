@@ -1,4 +1,4 @@
-![Visitor Count](https : //profile-counter.glitch.me/arif-bit/count.svg)
+![](https://komarev.com/ghpvc/?username=arif-bit)
 
 
 
