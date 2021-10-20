@@ -25,6 +25,6 @@
 ## 💹 Github Stats 
 ![MD Ariful Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=arif-bit&show_icons=true&theme=radical)
 
-<!-- Markdown -->
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" style="align:center"/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
