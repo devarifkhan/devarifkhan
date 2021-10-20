@@ -1,6 +1,6 @@
 
 ## pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arif-bit&repo=Recipe-JS)](https://github.com/arif-bit/Recipe-JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arif-bit&repo=Todo-List-using-Local-Storage)](https://github.com/arif-bit/Todo-List-using-Local-Storage)
 
 
 
