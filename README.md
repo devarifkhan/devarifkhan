@@ -7,7 +7,7 @@
   <img align="left" alt="Arif's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=arif-bit&color=dc143c)
+![](https://komarev.com/ghpvc/?username=arif-bit&color=blue)
 
 
 </br>
