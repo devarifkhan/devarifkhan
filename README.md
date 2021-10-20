@@ -14,7 +14,7 @@
 
 ## 📛 Badge
 <img src="https://tryhackme-badges.s3.amazonaws.com/arifkhan.png" alt="TryHackMe">
-<img src="https://i.postimg.cc/W419mrwJ/networking-essentials.png">
+<img height="100" src="https://i.postimg.cc/W419mrwJ/networking-essentials.png">
 
 
 ## 🔠 Language
