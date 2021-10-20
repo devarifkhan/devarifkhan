@@ -1,6 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-![Viewer Counter](https://komarev.com/ghpvc/?username=arif-bit)
-
 
 <a href="https://www.facebook.com/cysarif/">
   <img align="left" alt="Md Ariful Islam | Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
