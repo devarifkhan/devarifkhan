@@ -1,4 +1,4 @@
-[![Visits Badge](https://badges.pufler.dev/visits/arif-bit/git-badges)](https://badges.pufler.dev)
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 
