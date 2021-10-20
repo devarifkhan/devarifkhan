@@ -10,7 +10,9 @@
 ![](https://komarev.com/ghpvc/?username=arif-bit&color=blue)
 </br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=%2336BCF7&lines=welcome+to+my+profile)](https://git.io/typing-svg)
-I'm Md. Ariful Islam, Pentester from Dhaka, Bangladesh. 
+</br>
+<p> I'm Md. Ariful Islam, Penterster from <b>Dhaka, Bangladesh</b>. </p>
+
 
 ## 🔠 Language
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arif-bit&layout=compact)
