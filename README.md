@@ -13,7 +13,7 @@
 <h2> I'm Md. Ariful Islam, Penterster from <b>Dhaka, Bangladesh</b>. </h2>
 
 ## 📛 Badge
- <img src="https://tryhackme.com/badge/611252" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/arifkhan.png" alt="TryHackMe">
 <img height="100" src="https://i.postimg.cc/W419mrwJ/networking-essentials.png">
 
 
