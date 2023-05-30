@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arifcse209@gmail.com**
 
-- 📄 Know about my experiences [[https://flowcv.com/resume/pv930loftw](https://www.overleaf.com/read/gzyspckgzytv)](Resume)
+- 📄 Know about my experiences [[https://www.overleaf.com/read/gzyspckgzytv]](Resume)
 
 - ⚡ Fun fact **I don’t think I have a hidden talent.**
 
