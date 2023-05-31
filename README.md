@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I don’t think I have a hidden talent.**
 
-<p align="right"><iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">via GIPHY</a></p></p>
 
 <p align="left"> <img src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" alt="devarifkhan" /> </p>
 
