@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I don’t think I have a hidden talent.**
 
+<p align="right"><iframe src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/CleverCodeLab-cat-cute-coffee-CrFLL3CnRpw5ddlBMm">via GIPHY</a></p></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devarifkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarifkhan" height="30" width="40" /></a>
