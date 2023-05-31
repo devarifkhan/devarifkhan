@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I don’t think I have a hidden talent.**
 
 
-<p align="left"> <img src="https://giphy.com/embed/CrFLL3CnRpw5ddlBMm" alt="devarifkhan" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
