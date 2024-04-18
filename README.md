@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devarifkhan&theme=onedark" alt="devarifkhan" /></a> </p>
 
-- 🔭 I’m currently working on **Mentor Backend at Newspaper Olympiad**
-- 👯 I’m looking to collaborate on **ASP.NET Core and Angular Project**
-- 💬 Ask me about **Angular and ASP.NET Core development, React, Vue.js, and other popular JavaScript frameworks, Specific coding problems**
 - 📫 How to reach me **https://www.linkedin.com/in/devarifkhan/**
-- 👨‍💻 All of my projects are available at **https://devarifkhanportfolio.netlify.app/**
 - ⚡ Fun fact ** Software engineers write a lot, and it's not all about code!**
 
 <div> <a href="https://www.linkedin.com/in/devarifkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
