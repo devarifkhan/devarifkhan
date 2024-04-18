@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Ariful Islam [Full-Stack Engineer - Angular & ASP.NET Core]</h1>
-<h3 align="center">ASP.NET Core | C# | Entity Framework Core | SQL Server | Angular | TypeScript | Bootstrap | Node.js | Mongo DB | React JS</h3>
+<h1 align="center">Hi 👋, I'm Ariful Islam </h1>
+<h3 align="center">I'm a Python developer with experience in building web applications using React and Next.js. I'm also expanding my knowledge by learning AWS and Machine Learning.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarifkhan&label=Profile%20views&color=0e75b6&style=flat" alt="devarifkhan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devarifkhan&theme=onedark" alt="devarifkhan" /></a> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/devarifkhan/**
-- ⚡ Fun fact ** Software engineers write a lot, and it's not all about code!**
+- ⚡ Fun fact **Software engineers write a lot, and it's not all about code!**
 
 <div> <a href="https://www.linkedin.com/in/devarifkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/devarifkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
