@@ -13,11 +13,17 @@
 
 ## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
+A seasoned software developer with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, cost-effective solutions. 
 
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+I bring extensive experience in deploying applications using Lambda, API Gateway, SQS, Step Functions, and DynamoDB, and I am proficient in designing serverless architectures for optimal performance.
 
-That's why I like to make things that make a difference.
+My commitment to cybersecurity is demonstrated through my foundation in security best practices, vulnerability assessment, and penetration testing.
+
+I am skilled in data analysis, scripting, and backend development utilizing advanced Python capabilities. 
+
+I also possess foundational knowledge in ASP.NET and Flutter and am eager to expand my expertise. 
+
+I am always open to discussing serverless, security, or other technology interests and am ready to collaborate on projects that require secure, scalable serverless architecture.
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
