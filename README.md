@@ -141,13 +141,9 @@
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
-  <br/>
-	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="Ariful's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="Ariful's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
-  <br/>
-  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
-  <br/>
-  ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ ![devarifkhan's Stats](https://github-readme-stats.vercel.app/api?username=devarifkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+ ![devarifkhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=vue-dark&hide_border=true)
+ ![devarifkhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarifkhan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
@@ -158,20 +154,6 @@
 
 </details>
 
----
-
-## 📕Latest Blog Posts
-
-- [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
 
 
-<!-- BLOG-POST-LIST:START -->
-- [Learning in Public and Getting Opportunities](https://dev.to/aswinbarath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswinbarath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswinbarath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswinbarath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswinbarath/what-is-firebase-3f35)
-<!-- BLOG-POST-LIST:END -->
+
