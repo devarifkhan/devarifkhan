@@ -143,7 +143,7 @@
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   </br>
     <p>
-      ![](https://github-readme-stats.vercel.app/api?username=devarifkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+     ![](https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=vue-dark&hide_border=true)
     </p>
     
 
