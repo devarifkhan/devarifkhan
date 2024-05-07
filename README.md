@@ -141,15 +141,12 @@
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
+  </br>
  ![devarifkhan's Stats](https://github-readme-stats.vercel.app/api?username=devarifkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
- ![devarifkhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=vue-dark&hide_border=true)
- ![devarifkhan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devarifkhan&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+    
 
-<p align=center>
-  <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react&border=61dafb" height="192px"/>
-  </a>
-</p>
+
+
 <br />
 
 </details>
