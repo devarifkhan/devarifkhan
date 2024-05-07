@@ -6,7 +6,7 @@
 &nbsp;
 <a href="https://www.instagram.com/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ariful Islam" height="30" width="40" /></a>
 &nbsp;
-<a href="[https://www.facebook.com/profile.php?id=100011683902531](https://www.facebook.com/ariful.devarif/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
+<a href="[https://www.facebook.com/ariful.devarif/](https://www.facebook.com/ariful.devarif/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
 
