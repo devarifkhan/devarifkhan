@@ -13,7 +13,7 @@
 
 ## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square)
 
-**Author:**
+
 
 *Seasoned software developer* with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, and cost-effective solutions. 
 
@@ -38,7 +38,7 @@
 
 **Contact:**
 
-* Feel free to reach out with any questions or collaboration opportunities! (Add your contact information here)
+* Feel free to reach out with any questions or collaboration opportunities! You can contact me via email at [your_email_address](mailto:[arifcse209@gmail.com]).
 
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
