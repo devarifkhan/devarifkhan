@@ -126,7 +126,7 @@
 📊 <b>This Week I Spent My Time On</b>
 
 <!--START_SECTION:waka-->
-[!](<figure><embed src="https://wakatime.com/share/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/e2970a83-ebeb-4ca9-868a-5882329c58bd.svg" width="400" height="200"></embed></figure>)
+![](https://wakatime.com/share/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/e2970a83-ebeb-4ca9-868a-5882329c58bd.svg)
 <!--END_SECTION:waka-->
 
 
