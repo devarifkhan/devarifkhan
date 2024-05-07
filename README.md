@@ -13,17 +13,33 @@
 
 ## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square)
 
-A seasoned software developer with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, cost-effective solutions. 
+**Author:**
 
-I bring extensive experience in deploying applications using Lambda, API Gateway, SQS, Step Functions, and DynamoDB, and I am proficient in designing serverless architectures for optimal performance.
+*Seasoned software developer* with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, and cost-effective solutions. 
 
-My commitment to cybersecurity is demonstrated through my foundation in security best practices, vulnerability assessment, and penetration testing.
+**Expertise:**
 
-I am skilled in data analysis, scripting, and backend development utilizing advanced Python capabilities. 
+* Extensive experience deploying applications using Lambda, API Gateway, SQS, Step Functions, and DynamoDB. 
+* Proficient in designing serverless architectures for optimal performance.
+* Skilled in data analysis, scripting, and backend development utilizing advanced Python capabilities.
 
-I also possess foundational knowledge in ASP.NET and Flutter and am eager to expand my expertise. 
+**Security:**
 
-I am always open to discussing serverless, security, or other technology interests and am ready to collaborate on projects that require secure, scalable serverless architecture.
+* Committed to secure systems with a foundation in security best practices, vulnerability assessment, and penetration testing.
+
+**Additional Skills:**
+
+* Foundational knowledge in ASP.NET and Flutter (eager to learn more!)
+
+**Open to:**
+
+* Discussions on serverless, security, or other technology interests.
+* Collaboration on projects requiring secure, scalable serverless architecture.
+
+**Contact:**
+
+* Feel free to reach out with any questions or collaboration opportunities! (Add your contact information here)
+
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
