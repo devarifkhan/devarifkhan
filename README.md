@@ -123,7 +123,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/project/1aa64651-2bc0-4db7-9900-5b56f3396420.svg)](https://wakatime.com/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba) <b>&nbsp; coded, since JAN 01 2024</b>
 
-📊 <b>I Spent My Time On Coding</b>
+📊 <b>Spent My Time On Coding</b>
 
 <!--START_SECTION:waka-->
 ![](https://wakatime.com/share/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/6d5c240f-322a-434d-be4e-ce0208a473c7.svg)
@@ -131,10 +131,6 @@
 
 
 
-<<<<<<< HEAD
-=======
-  ![](https://github-readme-stats.vercel.app/api?username=devarifkhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
->>>>>>> origin/main
 
 
 
@@ -144,12 +140,12 @@
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
-<<<<<<< HEAD
+
   <br/>
 	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devarifkhan&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
 	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="Arifuls's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarifkhan&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
- 
+
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
@@ -163,17 +159,14 @@
     </p>
     
 
-
-
->>>>>>> origin/main
-<br />
-
-</details>
-
-<<<<<<< HEAD
----
 =======
 
+<p align=center>
+  <a href="https://git.io/streak-stats" title="Go to Source">
+    <img alt="Ariful's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=react&border=61dafb" height="192px"/>
+  </a>
+</p>
 
->>>>>>> origin/main
+
+
 
