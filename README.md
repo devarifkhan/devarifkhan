@@ -12,7 +12,7 @@
 
 
 ## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square)
-
+https://wakatime.com/badge/github/devarifkhan/devarifkhan.svg
 
 
 *Seasoned software developer* with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, and cost-effective solutions. 
