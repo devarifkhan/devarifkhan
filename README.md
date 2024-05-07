@@ -11,8 +11,7 @@
 
 
 
-## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square)
-
+## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square) 
 
 
 *Seasoned software developer* with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, and cost-effective solutions. 
@@ -50,7 +49,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/devarifkhan/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Tools and technologies from Angular and ASP.NET
 - 📬 How to reach me: [arifcse209@gmail.com](mailto:arifcse209@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
@@ -122,45 +121,34 @@
 
 ## 📊 Stats
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba) <b>&nbsp; coded, since JAN 01 2024</b>
+[![wakatime](https://wakatime.com/badge/user/d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/project/1aa64651-2bc0-4db7-9900-5b56f3396420.svg)](https://wakatime.com/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba) <b>&nbsp; coded, since JAN 01 2024</b>
 
-📊 <b>This Week I Spent My Time On</b>
+📊 <b>I Spent My Time On Coding</b>
 
 <!--START_SECTION:waka-->
-```text
-Markdown     5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
+![](https://wakatime.com/share/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/6d5c240f-322a-434d-be4e-ce0208a473c7.svg)
 <!--END_SECTION:waka-->
 
 
-<details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
 
-  <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
-  </p>
 
-</details>
+
+
+
+
 
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devarifkhan&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="Arifuls's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarifkhan&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
-  ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
-  <br/>
-  ⚠ <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react&border=61dafb" height="192px"/>
+    <img alt="Ariful's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=react&border=61dafb" height="192px"/>
   </a>
 </p>
 <br />
@@ -169,18 +157,3 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📕Latest Blog Posts
-
-- [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Learning in Public and Getting Opportunities](https://dev.to/aswinbarath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswinbarath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswinbarath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswinbarath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswinbarath/what-is-firebase-3f35)
-<!-- BLOG-POST-LIST:END -->
