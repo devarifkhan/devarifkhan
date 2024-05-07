@@ -38,7 +38,7 @@
 
 **Contact:**
 
-* Feel free to reach out with any questions or collaboration opportunities! You can contact me via email at [your_email_address](mailto:[arifcse209@gmail.com]).
+* Feel free to reach out with any questions or collaboration opportunities! You can contact me via email at [Email: ](mailto:[arifcse209@gmail.com]).
 
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
