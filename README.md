@@ -137,13 +137,29 @@
 
 
 
+
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
+
   <br/>
 	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=devarifkhan&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
 	<a href="https://github.com/devarifkhan/github-readme-stats" title="Go to Source"><img alt="Arifuls's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devarifkhan&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
- 
+
+
+<p align=center>
+  <a href="https://git.io/streak-stats" title="Go to Source">
+    <img alt="Ariful's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=react&border=61dafb" height="192px"/>
+  </a>
+</p>
+=======
+  </br>
+    <p>
+     ![](https://github-readme-streak-stats.herokuapp.com/?user=devarifkhan&theme=vue-dark&hide_border=true)
+    </p>
+    
+
+=======
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
@@ -151,10 +167,6 @@
   </a>
 </p>
 
-  
 
 
 
-
-
-</details>
