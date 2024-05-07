@@ -54,7 +54,7 @@
 - 📬 How to reach me: [arifcse209@gmail.com](mailto:arifcse209@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://leetcode.com/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 
