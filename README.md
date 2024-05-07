@@ -49,7 +49,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/devarifkhan/)
-  - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
+  - Tools and technologies from Angular and ASP.NET
 - 📬 How to reach me: [arifcse209@gmail.com](mailto:arifcse209@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
