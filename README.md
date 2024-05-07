@@ -121,7 +121,7 @@
 
 ## 📊 Stats
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba) <b>&nbsp; coded, since JAN 01 2024</b>
+[![wakatime](https://wakatime.com/badge/user/d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/project/1aa64651-2bc0-4db7-9900-5b56f3396420.svg)](https://wakatime.com/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba) <b>&nbsp; coded, since JAN 01 2024</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
