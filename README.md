@@ -22,22 +22,8 @@
 * Proficient in designing serverless architectures for optimal performance.
 * Skilled in data analysis, scripting, and backend development utilizing advanced Python capabilities.
 
-**Security:**
 
-* Committed to secure systems with a foundation in security best practices, vulnerability assessment, and penetration testing.
 
-**Additional Skills:**
-
-* Foundational knowledge in ASP.NET and Flutter (eager to learn more!)
-
-**Open to:**
-
-* Discussions on serverless, security, or other technology interests.
-* Collaboration on projects requiring secure, scalable serverless architecture.
-
-**Contact:**
-
-* Feel free to reach out with any questions or collaboration opportunities! You can contact me via email at [here](mailto:[arifcse209@gmail.com]).
 
 
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
