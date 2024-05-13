@@ -1,16 +1,22 @@
+# This workflow updates the README with Wakatime stats
 name: Waka Readme
 
+# Runs on manual trigger or every 2 hours
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
     - cron: "0 */2 * * *"
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaReadme DevMetrics  # Descriptive job name
     runs-on: ubuntu-latest
+
     steps:
-      - uses: devarifkhan/waka-readme@master # this action name
+      # Uses the athul/waka-readme action
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # Optionally include specific stats to show
+          SHOW_TOTAL: true
+          SHOW_LINES_OF_CODE: true
