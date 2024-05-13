@@ -110,12 +110,12 @@
 [![wakatime](https://wakatime.com/badge/user/d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba.svg)](https://wakatime.com/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba) <b>&nbsp; coded, since JAN 01 2024</b>
 
 📊 <b>I Spent My Time On Coding</b>
+</br>
+</br>
 
-<!--START_SECTION:waka-->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devarifkhan)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--END_SECTION:waka-->
 
-<img src="https://wakatime.com/share/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/3793dd2c-78f1-42fe-aed5-9fd23aedc1a3.svg" />
 
 
 
