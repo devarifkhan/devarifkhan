@@ -111,6 +111,10 @@
 
 📊 <b>I Spent My Time On Coding</b>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <img src="https://wakatime.com/share/@d7c6de35-a8a3-4ac5-b46e-25fdc5c0ebba/3793dd2c-78f1-42fe-aed5-9fd23aedc1a3.svg" />
 
 
