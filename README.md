@@ -35,7 +35,7 @@
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/devarifkhan/)
-  - Tools and technologies from Angular and ASP.NET
+  - Tools and technologies from Flask and Django
 - 📬 How to reach me: [arifcse209@gmail.com](mailto:arifcse209@gmail.com)
 - 💪 This is where I write, code and solve problems:
 
