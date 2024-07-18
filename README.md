@@ -114,8 +114,6 @@
 </br>
 </br>
 
-.. image:: https://wakatime.com/share/@devarifkhan/260969e8-4597-49b2-8a1b-2afd8d5a632c.png
-    :target: https://wakatime.com/
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devarifkhan)](https://github.com/anuraghazra/github-readme-stats)
 
