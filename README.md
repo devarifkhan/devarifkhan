@@ -31,13 +31,11 @@
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Solutions Developer ( AWS Serverless )**
-- 💬 Ask me about anything, I am happy to help
-- 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/devarifkhan/)
-  - Tools and technologies from Flask and Django
-- 📬 How to reach me: [arifcse209@gmail.com](mailto:arifcse209@gmail.com)
-- 💪 This is where I write, code and solve problems:
+I'm a highly skilled software engineer with a focus on developing scalable, efficient backend systems and cloud-native applications. With extensive experience in designing RESTful APIs, microservices architectures, and implementing DevOps practices, I specialize in delivering high-performance solutions across a wide range of industries.
+
+My technical expertise spans various programming languages and frameworks, including .NET, Java, Node.js, Python, and JavaScript, as well as cloud platforms like AWS and Azure. I am proficient in database management (SQL, NoSQL), containerization (Docker, Kubernetes), and CI/CD pipelines.
+
+Key interests include system design, distributed computing, and improving software development processes through automation and best practices. Whether it's developing new features, solving complex technical challenges, or contributing to open-source projects, I aim to provide quality solutions that are both scalable and maintainable.
 
 
 
