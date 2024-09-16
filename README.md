@@ -33,7 +33,7 @@
 
 I'm a highly skilled software engineer with a focus on developing scalable, efficient backend systems and cloud-native applications. With extensive experience in designing RESTful APIs, microservices architectures, and implementing DevOps practices, I specialize in delivering high-performance solutions across a wide range of industries.
 
-My technical expertise spans various programming languages and frameworks, including .NET, Java, Node.js, Python, and JavaScript, as well as cloud platforms like AWS and Azure. I am proficient in database management (SQL, NoSQL), containerization (Docker, Kubernetes), and CI/CD pipelines.
+My technical expertise spans various programming languages and frameworks, including .NET, Java, Node.js, Python, and JavaScript, as well as cloud platforms like AWS. I am proficient in database management (SQL, NoSQL), containerization (Docker, Kubernetes), and CI/CD pipelines.
 
 Key interests include system design, distributed computing, and improving software development processes through automation and best practices. Whether it's developing new features, solving complex technical challenges, or contributing to open-source projects, I aim to provide quality solutions that are both scalable and maintainable.
 
