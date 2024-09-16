@@ -1,48 +1,25 @@
-# Welcome to Ariful Islam's profile!
+Welcome to Ariful Islam's Profile!
 
-<a href="https://www.linkedin.com/in/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ariful Islam" height="30" width="40" /></a>
-&nbsp;
-<a href="https://twitter.com/devarif_khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ariful Islam" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.instagram.com/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Ariful Islam" height="30" width="40" /></a>
-&nbsp;
-<a href="https://www.facebook.com/ariful.devarif/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
-&nbsp;
+<a href="https://www.linkedin.com/in/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>   <a href="https://twitter.com/devarif_khan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>   <a href="https://www.instagram.com/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>   <a href="https://www.facebook.com/ariful.devarif/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>  
+Glad to see you here!  
 
+I'm a Software Engineer with a strong specialization in AWS Serverless technologies and a keen interest in building scalable, secure, and cost-effective solutions.
+Expertise:
 
+    AWS Serverless Technologies: Extensive experience with Lambda, API Gateway, SQS, Step Functions, and DynamoDB.
+    Backend Development: Proficient in designing and implementing serverless architectures for optimal performance.
+    Programming Languages: Skilled in Python, .NET, Java, Node.js, and JavaScript.
+    Data Analysis & Scripting: Advanced capabilities in data processing and automation.
+    DevOps & CI/CD: Experience in containerization (Docker, Kubernetes) and continuous integration/continuous deployment pipelines.
 
-## Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=devarifkhan&style=flat-square) 
+<img align="right" alt="Coding GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+Personal Interests:
 
+I am dedicated to developing scalable, efficient backend systems and cloud-native applications. My experience spans various industries, and I am well-versed in designing RESTful APIs, microservices architectures, and implementing best practices in software development. I am particularly passionate about system design, distributed computing, and improving software development processes through automation and innovative solutions.
 
-*Seasoned software developer* with a strong focus on AWS Serverless technologies and a passion for building scalable, secure, and cost-effective solutions. 
+Whether it's tackling complex technical challenges, contributing to open-source projects, or mentoring others, I strive to deliver high-performance solutions that are both scalable and maintainable.
 
-**Expertise:**
-
-* Extensive experience deploying applications using Lambda, API Gateway, SQS, Step Functions, and DynamoDB. 
-* Proficient in designing serverless architectures for optimal performance.
-* Skilled in data analysis, scripting, and backend development utilizing advanced Python capabilities.
-
-
-
-
-
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-
-### Talking about Personal Stuff:
-
-I'm a highly skilled software engineer with a focus on developing scalable, efficient backend systems and cloud-native applications. With extensive experience in designing RESTful APIs, microservices architectures, and implementing DevOps practices, I specialize in delivering high-performance solutions across a wide range of industries.
-
-My technical expertise spans various programming languages and frameworks, including .NET, Java, Node.js, Python, and JavaScript, as well as cloud platforms like AWS. I am proficient in database management (SQL, NoSQL), containerization (Docker, Kubernetes), and CI/CD pipelines.
-
-Key interests include system design, distributed computing, and improving software development processes through automation and best practices. Whether it's developing new features, solving complex technical challenges, or contributing to open-source projects, I aim to provide quality solutions that are both scalable and maintainable.
-
-
-
-<a href="https://leetcode.com/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arifkhan" height="30" width="40" /></a>
-
-
----
+<a href="https://leetcode.com/devarifkhan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 
 ## 🛠️ My Favourite tools
 
