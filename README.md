@@ -57,7 +57,7 @@ The adventure never ceases. These are the current quests that have captured my f
 
 - **Magic Spells**: AWS (Lambda, SQS, SNS, DynamoDB, API Gateway)
 - **Programming Blades**: Java, Python, .NET, Node.js
-- **Potions & Artifacts**: REST APIs, Microservices, Event-Driven Systems
+- **Potions & Artifacts**: REST APIs, Microservices
 - **Shield & Armor**: Docker, Kubernetes, CI/CD with GitHub Actions
 - **Maps**: SQL (PostgreSQL), NoSQL (MongoDB, DynamoDB)
 
