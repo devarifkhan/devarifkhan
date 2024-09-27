@@ -52,13 +52,13 @@ The adventure never ceases. These are the current quests that have captured my f
 <h2 align="center">⚔️ Skills & Weapons of Choice ⚔️</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,java,spring,python,dotnet,nodejs,graphql,postgresql,mongodb,dynamodb,docker,kubernetes,terraform,githubactions,git" alt="Tech Stack Icons">
+  <img src="https://skillicons.dev/icons?i=aws,java,spring,python,dotnet,nodejs,postgresql,mongodb,dynamodb,docker,git" alt="Tech Stack Icons">
 </p>
 
 - **Magic Spells**: AWS (Lambda, SQS, SNS, DynamoDB, API Gateway)
 - **Programming Blades**: Java, Python, .NET, Node.js
-- **Potions & Artifacts**: REST APIs, Microservices
-- **Shield & Armor**: Docker, Kubernetes, CI/CD with GitHub Actions
+- **Potions & Artifacts**: REST APIs
+- **Shield & Armor**: Docker
 - **Maps**: SQL (PostgreSQL), NoSQL (MongoDB, DynamoDB)
 
 ---
