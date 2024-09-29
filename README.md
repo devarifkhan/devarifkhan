@@ -62,14 +62,14 @@ The adventure never ceases. These are the current quests that have captured my f
 - **Maps**: SQL (PostgreSQL), NoSQL (MongoDB, DynamoDB)
 
 ---
-
+<!--
 <h2 align="center">📜 The Scrolls of Accomplishments</h2>
 Ah, the spoils of war! The projects, achievements, and victories that I’ve collected along the way, each telling a story of resilience, creativity, and a relentless pursuit of excellence.
 
 - **Architected** a serverless system using AWS Lambda, SQS, and Step Functions for real-time data processing.
 - **Developed** scalable microservices using Java Spring Boot, an unstoppable force against monoliths.
 - **Mastered** containerization with Kubernetes and Docker, leading the charge in DevOps transformation.
-
+-->
 ---
 <!--
 <h2 align="center">⚔️ The Developer's Map</h2>
