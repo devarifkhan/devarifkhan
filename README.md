@@ -36,7 +36,6 @@ Dive deep into the art and science of building scalable, cloud-native applicatio
 - 🔒 **Security & Resilience**: Make your services secure, observable, and fault-tolerant.
 - 💬 **Event-Driven Architecture**: Explore RabbitMQ, Kafka, and event-driven patterns.
 
-Check out my [Udemy Course Notes](https://github.com/yourusername/microservices-course-notes) for structured learning paths!
 
 ### 2️⃣ **Exploring Generative AI**
 Unlock the power of artificial intelligence to solve real-world problems creatively:
