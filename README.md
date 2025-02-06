@@ -1,10 +1,10 @@
----
 
-# 🌟 Arif Khan - Bridging Microservices & Generative AI 🚀
+
+# 🌟 Ariful Islam - Bridging Microservices & Generative AI 🚀
 
 Welcome to my GitHub universe! I’m **Ariful Islam**, a passionate technologist on a mission to simplify complex systems while pushing the boundaries of innovation. My journey is about connecting dots—between scalable architectures like microservices and cutting-edge generative AI technologies—to create impactful solutions.
 
----
+
 
 ## 📖 My Story: From Scalable Systems to Intelligent Machines
 
@@ -26,7 +26,6 @@ Here’s a glimpse of my recent activity:
 
 Consistency is key, and I take pride in staying active and contributing to meaningful projects every day.
 
----
 
 ## 🛠️ What You’ll Find Here
 
