@@ -50,7 +50,7 @@ Unlock the power of artificial intelligence to solve real-world problems creativ
 
 Explore my [Gen AI Projects]([https://github.com/yourusername/genai-projects](https://github.com/devarifkhan/GenAI_Langchain_HuggingFace.git)) for hands-on implementations!
 
----
+
 
 ## 🌈 Why Connect With Me?
 
@@ -60,7 +60,7 @@ Explore my [Gen AI Projects]([https://github.com/yourusername/genai-projects](ht
 
 3. **Community Builder**: Let’s grow together! Follow me for updates, collaborate on open-source projects, or just geek out about tech trends over coffee ☕.
 
----
+
 
 ## 🎯 Recent Highlights
 
@@ -72,7 +72,7 @@ Explore my [Gen AI Projects]([https://github.com/yourusername/genai-projects](ht
 - Created a **YouTube Video Summarizer** using LangChain and Hugging Face.
 - Developed a **multi-agent system** for automating customer support workflows with CrewAI.
 
----
+
 
 ## 🤝 Let’s Collaborate!
 
@@ -81,8 +81,7 @@ Whether you’re a fellow developer, a curious learner, or someone looking for g
 - **Email**: [larifkhan@example.com](mailto:arifcse209@gmail.com)
 - **LinkedIn**: [@arifkhan](https://www.linkedin.com/in/devarifkhan)
 
----
----
+
 
 ## 🚀 Closing Thoughts
 
