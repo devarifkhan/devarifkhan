@@ -14,7 +14,6 @@ But then came the era of **Generative AI**, where machines could not only proces
 
 If you're curious about how microservices meet Gen AI, stick around—you’re in for a treat! ✨
 
----
 
 ## 💻 Coding Journey: 875+ Hours of Professional Experience
 
