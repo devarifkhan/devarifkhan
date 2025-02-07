@@ -77,8 +77,8 @@ Explore my [Gen AI Projects]([https://github.com/yourusername/genai-projects](ht
 
 Whether you’re a fellow developer, a curious learner, or someone looking for guidance, I’d love to hear from you. Here’s how you can connect:
 
-- **Email**: [larifkhan@example.com](mailto:arifcse209@gmail.com)
-- **LinkedIn**: [@arifkhan](https://www.linkedin.com/in/devarifkhan)
+- **Email**: [arifcse209@gmail.com](mailto:arifcse209@gmail.com)
+- **LinkedIn**: [@devarifkhan](https://www.linkedin.com/in/devarifkhan)
 
 
 
